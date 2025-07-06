@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Luco, Nicolas</origin>
+        <origin>Rezaeian, Sanaz</origin>
+        <origin>Rukstales, Kenneth S.</origin>
+        <origin>Powers, Peter M.</origin>
+        <origin>Shumway, Allison M.</origin>
+        <origin>Martinez, Eric M.</origin>
+        <origin>Smoczyk, Greg M.</origin>
+        <pubdate>20210611</pubdate>
+        <title>Gridded risk-targeted spectral response acceleration data and 84th-percentile spectral acceleration data used to calculate the Risk-Targeted Maximum Considered Earthquake (MCER) spectral response accelerations of the 2020 NEHRP Recommended Seismic Provisions, and 2022 ASCE/SEI 7 Standard for the conterminous United States.</title>
+        <geoform>fixed format text files, comma separated values (.csv)</geoform>
+        <onlink>https://doi.org/10.5066/P9I0R4O6</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Risk-Targeted Maximum Considered Earthquake (MCER) spectral response accelerations of the 2020 NEHRP Recommended Seismic Provisions and 2022 ASCE/SEI 7 Standard are derived from the downloadable data files.  For each spectral period and site class, the MCER spectral response acceleration (S_aM) is calculated via the following equation:
+S_aM = min[ S_aRT , max( S_a84th , S_aDLL ) ]
+where
+S_aRT = risk-targeted spectral acceleration
+S_a84th = 84th-percentile spectral acceleration
+S_aDLL = deterministic lower limit spectral acceleration</abstract>
+      <purpose>The data are used to calculate the Risk-Targeted Maximum Considered Earthquake (MCER) spectral response accelerations of the 2020 NEHRP Recommended Seismic Provisions and 2022 ASCE/SEI 7 Standard.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>2020</begdate>
+          <enddate>Unknown</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>3-6 years</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-125.0</westbc>
+        <eastbc>-65.0</eastbc>
+        <northbc>50.0</northbc>
+        <southbc>24.4</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>earthquakes</themekey>
+        <themekey>engineering sciences</themekey>
+        <themekey>hazards</themekey>
+        <themekey>seismology</themekey>
+        <themekey>standards</themekey>
+      </theme>
+      <theme>
+        <themekt>none</themekt>
+        <themekey>2020 NEHRP</themekey>
+        <themekey>2022 ASCE/SEI 7</themekey>
+        <themekey>Seismic</themekey>
+        <themekey>Risk</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:5e719f1be4b01d5092688de1</themekey>
+      </theme>
+      <place>
+        <placekt>http://geonames.usgs.gov/</placekt>
+        <placekey>Alabama</placekey>
+        <placekey>Arizona</placekey>
+        <placekey>Arkansas</placekey>
+        <placekey>California</placekey>
+        <placekey>Colorado</placekey>
+        <placekey>Connecticut</placekey>
+        <placekey>Delaware</placekey>
+        <placekey>District of Columbia</placekey>
+        <placekey>Florida</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Idaho</placekey>
+        <placekey>Illinois</placekey>
+        <placekey>Indiana</placekey>
+        <placekey>Iowa</placekey>
+        <placekey>Kansas</placekey>
+        <placekey>Kentucky</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Maine</placekey>
+        <placekey>Maryland</placekey>
+        <placekey>Massachusetts</placekey>
+        <placekey>Michigan</placekey>
+        <placekey>Minnesota</placekey>
+        <placekey>Mississippi</placekey>
+        <placekey>Missouri</placekey>
+        <placekey>Montana</placekey>
+        <placekey>Nebraska</placekey>
+        <placekey>Nevada</placekey>
+        <placekey>New Hampshire</placekey>
+        <placekey>New Jersey</placekey>
+        <placekey>New Mexico</placekey>
+        <placekey>New York</placekey>
+        <placekey>North Carolina</placekey>
+        <placekey>North Dakota</placekey>
+        <placekey>Ohio</placekey>
+        <placekey>Oklahoma</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>Pennsylvania</placekey>
+        <placekey>Rhode Island</placekey>
+        <placekey>South Carolina</placekey>
+        <placekey>South Dakota</placekey>
+        <placekey>Tennessee</placekey>
+        <placekey>Texas</placekey>
+        <placekey>Utah</placekey>
+        <placekey>Vermont</placekey>
+        <placekey>Virginia</placekey>
+        <placekey>Washington</placekey>
+        <placekey>West Virginia</placekey>
+        <placekey>Wisconsin</placekey>
+        <placekey>Wyoming</placekey>
+        <placekey>USA</placekey>
+        <placekey>United States</placekey>
+      </place>
+      <temporal>
+        <tempkt>none</tempkt>
+        <tempkey>2020</tempkey>
+        <tempkey>2022</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>The data are not to be used for areas outside the conterminous United States.   Acknowledgment of  the U.S. Geological Survey, National Seismic Hazard Mapping Project would be appreciated in products derived from these data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Nicolas Luco</cntper>
+          <cntorg>U.S. Geological Survey - Geologic Hazards Science Center</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Box 25046, MS 966</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>303-273-8683</cntvoice>
+        <cntemail>nluco@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 10</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>This data set is based on a seismological model.  The following report provides information on quality assessment for the data set:
+Petersen, M.D., Shumway, A.M., Powers, P.M., Mueller, C.S., Moschetti, M.P., Frankel, A.D., Rezaeian, S., McNamara, D.E., Luco, N., Boyd, O.S., Rukstales, K.S., Jaiswal, K.S., Thompson, E.M., Hoover, S.M., Clayton, B.S., Field, E.H., and Zeng, Y., 2019, The 2018 Update of the U.S. National Seismic Hazard Model: Overview of Model and Implications, Earthquake Spectra, v. 36, p. 5-41.  https://doi.org/10.1177/8755293019878199</attraccr>
+    </attracc>
+    <logic>Gridded data values outside the boundaries of the conterminous United States have been assigned a default value of NaN.  Grid points where the 84th-percentile (deterministic) spectral accelerations were not calculated, were assigned a default value of NaN.</logic>
+    <complete>Data outside the physical boundaries of the United States have been included, although they should not be used.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The location of features is based on calculations of a seismological model for the study area.  The location of each point is considered to be correct within the confines of computer accuracy.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>The gridded data are based on the 2018 Update of the U.S. National Seismic Hazard Model.  The risk-targeted spectral accelerations are calculated using a suite of hazard curves calculated for an equally spaced grid of points covering the conterminous United States.  The 84th-percentile spectral accelerations are also derived from the hazard model.  The gridded data contain spectral accelerations for 22 different periods.  There are separate files for NEHRP site classes A, B, B/C, C, C/D, D, D/E, and E.</procdesc>
+        <procdate>2020</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Point</sdtstype>
+        <ptvctcnt>616113</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.05</latres>
+        <longres>0.05</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>World Geodetic System 1984</ellips>
+        <semiaxis>6378137</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-RTSAs_vs30=1500-siteClass=A_NEHRP-2020.csv</enttypl>
+        <enttypd>Risk-targeted spectral accelerations for 22 periods, adjusted for maximum direction, NEHRP site class A (Vs30=1500 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-84thSAs_vs30=1500-siteClass=A_NEHRP-2020.csv</enttypl>
+        <enttypd>84th-percentile spectral acceleration for 22 periods, adjusted for maximum direction, NEHRP site class A (Vs30=1500 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-RTSAs_vs30=1080-siteClass=B_NEHRP-2020.csv</enttypl>
+        <enttypd>Risk-targeted spectral accelerations for 22 periods, adjusted for maximum direction, NEHRP site class B (Vs30=1080 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-84thSAs_vs30=1080-siteClass=B_NEHRP-2020.csv</enttypl>
+        <enttypd>84th-percentile spectral acceleration for 22 periods, adjusted for maximum direction, NEHRP site class B (Vs30=1080 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-RTSAs_vs30=760-siteClass=BC_NEHRP-2020.csv</enttypl>
+        <enttypd>Risk-targeted spectral accelerations for 22 periods, adjusted for maximum direction, NEHRP site class B/C (Vs30=760 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-84thSAs_vs30=760-siteClass=BC_NEHRP-2020.csv</enttypl>
+        <enttypd>84th-percentile spectral acceleration for 22 periods, adjusted for maximum direction, NEHRP site class B/C (Vs30=760 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-RTSAs_vs30=530-siteClass=C_NEHRP-2020.csv</enttypl>
+        <enttypd>Risk-targeted spectral accelerations for 22 periods, adjusted for maximum direction, NEHRP site class C (Vs30=530 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-84thSAs_vs30=530-siteClass=C_NEHRP-2020.csv</enttypl>
+        <enttypd>84th-percentile spectral acceleration for 22 periods, adjusted for maximum direction, NEHRP site class C (Vs30=530 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-RTSAs_vs30=365-siteClass=CD_NEHRP-2020.csv</enttypl>
+        <enttypd>Risk-targeted spectral accelerations for 22 periods, adjusted for maximum direction, NEHRP site class C/D (Vs30=365 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-84thSAs_vs30=365-siteClass=CD_NEHRP-2020.csv</enttypl>
+        <enttypd>84th-percentile spectral acceleration for 22 periods, adjusted for maximum direction, NEHRP site class C/D (Vs30=365 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-RTSAs_vs30=260-siteClass=D_NEHRP-2020.csv</enttypl>
+        <enttypd>Risk-targeted spectral accelerations for 22 periods, adjusted for maximum direction, NEHRP site class D (Vs30=260 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-84thSAs_vs30=260-siteClass=D_NEHRP-2020.csv</enttypl>
+        <enttypd>84th-percentile spectral acceleration for 22 periods, adjusted for maximum direction, NEHRP site class D (Vs30=260 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-RTSAs_vs30=185-siteClass=DE_NEHRP-2020.csv</enttypl>
+        <enttypd>Risk-targeted spectral accelerations for 22 periods, adjusted for maximum direction, NEHRP site class D/E (Vs30=185 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-84thSAs_vs30=185-siteClass=DE_NEHRP-2020.csv</enttypl>
+        <enttypd>84th-percentile spectral acceleration for 22 periods, adjusted for maximum direction, NEHRP site class D/E (Vs30=185 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-RTSAs_vs30=150-siteClass=E_NEHRP-2020.csv</enttypl>
+        <enttypd>Risk-targeted spectral accelerations for 22 periods, adjusted for maximum direction, NEHRP site class E (Vs30=150 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS-2018_MaxDirection-84thSAs_vs30=150-siteClass=E_NEHRP-2020.csv</enttypl>
+        <enttypd>84th-percentile spectral acceleration for 22 periods, adjusted for maximum direction, NEHRP site class E (Vs30=150 m/s).</enttypd>
+        <enttypds>USGS</enttypds>
+      </enttyp>
+    </detailed>
+    <overview>
+      <eaover>These files contain a grid of points. The first line is the header line.  The header line contains the column heading for each subsequent row in the data file.  Column headings that start with the characters 'SA' indicate a spectral acceleration at a prescribed period (e.g. SA0P01 denotes spectral acceleration at a period of 0.01-second).  Subsequent lines contain the latitude and longitude of the point, followed by the 22 risk-targeted spectral accelerations or 84th-percentile spectral accelerations for that single geographic point.  Acceleration values are in units of g.</eaover>
+      <eadetcit>none</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Lakewood</city>
+          <state>CO</state>
+          <postal>80215</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable fixed format data file in ASCII text format.</resdesc>
+    <distliab>Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government. Although this information product, for the most part, is in the public domain, it also contains copyrighted materials as noted in the text. Permission to reproduce copyrighted items must be secured from the copyright owner whenever applicable. The data have been approved for release and publication by the U.S. Geological Survey (USGS). Although the data have been subjected to rigorous review and are substantially complete, the USGS reserves the right to revise the data pursuant to further analysis and review. Furthermore, the data are released on the condition that neither the USGS nor the U.S. Government may be held liable for any damages resulting from authorized or unauthorized use. Although the data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the display or utility of the data on any other system, or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and/or contained herein. Users of the data are advised to read all metadata and associated documentation thoroughly to understand appropriate use and data limitations.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>fixed format text file (csv)</formname>
+          <formvern>1.0</formvern>
+          <formspec>comma separated values</formspec>
+          <formcont>Gridded data used to determine risk-targeted maximum considered earthquake spectral response accelerations for the conterminous United States for the 2020 NEHRP Recommended Seismic Provisions and 2022 ASCE/SEI 7 Standard.</formcont>
+          <filedec>Files may need to be decompressed using winzip or similar utility</filedec>
+          <transize>576</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9I0R4O6</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>none</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20210611</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - Geologic Hazards Science Center</cntorg>
+          <cntper>Ken Rukstales</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Box 25046, MS 966</address>
+          <city>Lakewood</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>303-273-8677</cntvoice>
+        <cntemail>ghsc_metadata@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
