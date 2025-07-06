@@ -1,5 +1,7 @@
 %% Risk-Targeted Spectrum Calculation for Multi-Period MCE Exceedance
 % Computes RT, 84th percentile, and lower limit spectra for each ground motion in the MCER exceedance set.
+% NOTE: The gridded Risk-Targeted and 84th percentile spectra datasets must be downloaded manually
+% from https://doi.org/10.5066/P9I0R4O6 and placed in the /data/raw directory before running this script.
 
 clear; close all; clc;
 
