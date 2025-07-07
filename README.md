@@ -74,3 +74,20 @@ Additional batch, table, or data-preparation scripts are available in `scripts/`
 
 Large raw datasets must be downloaded manually. Specifically, gridded risk-targeted and 84th-percentile spectra must be obtained from [USGS ScienceBase](https://doi.org/10.5066/P9I0R4O6) and placed in `data/raw/`.
 
+## Licensing and Citation
+
+All code in this repository is licensed under the [MIT License](LICENSE).
+
+If you use these scripts or analysis in your research, please cite:
+
+```bibtex
+@article{calderon2025observed,
+  title   = {Observed ground motions that exceeded design response spectra in the Western United States},
+  author  = {Victor H. Calderon and Jack W. Baker},
+  year    = {2025},
+  journal = {Earthquake Spectra (in review)},
+  note    = {GitHub: https://github.com/vhcalderon1/exceeding_design_spectra}
+}
+```
+
+
