@@ -13,8 +13,7 @@ The project identifies and analyzes ground motions in the Western U.S. that exce
 > *Submitted to Earthquake Spectra* (in review).
 
 This repository contains MATLAB code, data-processing scripts, and helper functions.
-
----
+If you encountered any issue, feel free to contact vhcalderon (at) princeton (dot) edu
 
 ## Overview
 
@@ -24,8 +23,6 @@ The scripts in this repository perform the following key tasks:
 - **Compare observed spectra to target and seismic hazard disaggregated values** for physical insight.
 
 Sample outputs are written to `/results/figures/`, ready for direct inclusion in publications.
-
----
 
 ## Repository Structure
 ```
