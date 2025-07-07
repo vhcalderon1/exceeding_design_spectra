@@ -19,7 +19,7 @@ All code is designed for reproducible, publication-quality seismic ground motion
 ## Overview
 
 The scripts in this repository perform the following key tasks:
-- **Screen NGA-West2 recordings** to find ground motions that exceed DBE, MCE, and UHS target spectra.
+- **Screen NGA-West2 recordings** to find ground motions that exceed DE, $\mathrm{MCE}_{\mathrm{R}}$, probablisitic $\mathrm{MCE}_{\mathrm{R}}$ and UHS target spectra.
 - **Generate tables and figures** quantifying the number, magnitude, distance, and period ranges of exceedances.
 - **Compare observed spectra to target and disaggregated values** for physical insight.
 
