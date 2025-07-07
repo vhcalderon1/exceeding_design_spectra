@@ -33,7 +33,7 @@ exceeding_design_spectra/
 ├─ src/                   % helper functions (spectra, interpolation, etc.)
 ├─ data/
 │   ├─ raw/               % large external files (not version-controlled)
-│   └─ derived           % .mat & .xlsx outputs created by scripts
+│   └─ (derived)          % .mat & .xlsx outputs created by scripts
 └─ results/
     └─ figures/           % publication-ready PDFs/PNGs
 ```
