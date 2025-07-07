@@ -81,7 +81,7 @@ All code in this repository is licensed under the [MIT License](LICENSE).
 If you use these scripts or analysis in your research, please cite:
 
 ```bibtex
-@article{calderon2025observed,
+@article{calderonbaker2025observed,
   title   = {Observed ground motions that exceeded design response spectra in the Western United States},
   author  = {Victor H. Calderon and Jack W. Baker},
   year    = {2025},
