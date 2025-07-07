@@ -45,7 +45,7 @@ Most analysis can be performed by running the `main.m` script from the project r
 
 ## Key Scripts
 
-The following scripts are run automatically by `main.m` (in order):
+The following scripts are run automatically by `main.m`:
 
 - `disagg_residual_UHS.m`  
   Disaggregation of UHS residuals (see Fig. 9 of the paper)
