@@ -51,18 +51,19 @@ The following scripts are run automatically by `main.m`:
   Disaggregation of UHS residuals (see Fig. 9 of the paper)
 
 - `disagg_mag_dist_UHS.m`  
-  Magnitude–distance analysis for UHS exceedances (Fig. 5)
+  Magnitude–distance analysis for UHS exceedances (Fig. 9)
+  
 - `ratiosa_vs_tmax.m`  
   SA/UHS ratio vs. T/Tmax (Fig. 8)
 
 - `magnitude_distance.m`  
-  Magnitude–distance threshold plots
+  Magnitude–distance threshold plots (Fig. 5)
 
 - `number_exceedances.m`  
   Number of spectral exceedances as a function of period (Fig. 4)
 
 - `set_rsns_plot.m`  
-  Map and plot of RSNs with exceedances (Fig. 7)
+  Map and plot of RSNs with exceedances (Fig. 2, 3, and 6)
 
 - `usable_gms.m`  
   Usable ground motions vs. period (Fig. 1)
