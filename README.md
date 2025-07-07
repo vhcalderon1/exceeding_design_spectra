@@ -6,14 +6,13 @@ SPDX-License-Identifier: MIT
 
 # Observed ground motions that exceeded design response spectra in the Western United States
 
-This repository contains MATLAB code, data-processing scripts, and helper functions accompanying:
+The project identifies and analyzes ground motions in the Western U.S. that exceeded modern seismic design response spectra, as described in:
 
 > Victor H. Calderon & Jack W. Baker (2025).  
 > "Observed ground motions that exceeded design response spectra in the Western United States".  
 > *Submitted to Earthquake Spectra* (in review).
 
-All code is designed for reproducible, publication-quality seismic ground motion analysis. The project identifies and analyzes ground motions in the Western U.S. that exceeded modern seismic design response spectra, as described in the above paper.
-
+This repository contains MATLAB code, data-processing scripts, and helper functions.
 ---
 
 ## Overview
