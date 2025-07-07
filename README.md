@@ -69,3 +69,12 @@ The following scripts are run automatically by `main.m`:
   Usable ground motions vs. period (Fig. 1)
 
 Additional batch, table, or data-preparation scripts are available in `scripts/` and can be run independently.
+
+## Data
+
+Large raw datasets must be downloaded manually, as described above.
+
+**Note:** Gridded risk-targeted and 84th-percentile spectra must be obtained from [USGS ScienceBase](https://doi.org/10.5066/P9I0R4O6) and placed in `data/raw/`.
+
+Outputs from the scripts are stored in `data/derived/` (kept under version control).
+
