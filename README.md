@@ -37,3 +37,8 @@ exceeding_design_spectra/
 └─ results/
     └─ figures/           % publication-ready PDFs/PNGs
 ```
+## Getting Started
+
+Clone this repository and install any necessary dependencies (see comments in scripts).
+
+Most analysis can be performed by running the `main.m` script from the project root. Make sure you have all required data files in the `data/` folder. Figures and results will be saved to the `results/` folder.
