@@ -52,7 +52,6 @@ The following scripts are run automatically by `main.m`:
 
 - `disagg_mag_dist_UHS.m`  
   Magnitude–distance analysis for UHS exceedances (Fig. 5)
-
 - `ratiosa_vs_tmax.m`  
   SA/UHS ratio vs. T/Tmax (Fig. 8)
 
