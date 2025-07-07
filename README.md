@@ -21,11 +21,20 @@ All code is designed for reproducible, publication-quality seismic ground motion
 The scripts in this repository perform the following key tasks:
 - **Screen set of NGA-West2 recordings** to find ground motions that exceed DE, MCE_R, probablisitic MCE_R and UHS target spectra.
 - **Generate tables and figures** quantifying the number, magnitude, distance, and period ranges of exceedances.
-- **Compare observed spectra to target and disaggregated values** for physical insight.
+- **Compare observed spectra to target and seismic hazard disaggregated values** for physical insight.
 
 Sample outputs are written to `/results/figures/`, ready for direct inclusion in publications.
 
 ---
 
 ## Repository Structure
-
+exceeding_design_spectra/
+│
+├── main.m # Main driver script for end-to-end analysis
+├── scripts/ # Top-level analysis and plotting scripts (run by main.m)
+├── src/ # Helper functions (e.g. spectral interpolation, disaggregation, utility)
+├── data/
+│ ├── raw/ # External datasets (NGA-West2, USGS grids, not version controlled)
+│ └── derived: # Output .mat/.xlsx files from analysis scripts
+└── results/
+└── figures/ # Publication-quality plots (PDF, PNG)
