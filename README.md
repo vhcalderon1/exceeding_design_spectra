@@ -42,3 +42,30 @@ exceeding_design_spectra/
 Clone this repository and install any necessary dependencies (see comments in scripts).
 
 Most analysis can be performed by running the `main.m` script from the project root. Make sure you have all required data files in the `data/` folder. Figures and results will be saved to the `results/` folder.
+
+## Key Scripts
+
+The following scripts are run automatically by `main.m` (in order):
+
+- `disagg_residual_UHS.m`  
+  Disaggregation of UHS residuals (see Fig. 9 of the paper)
+
+- `disagg_mag_dist_UHS.m`  
+  Magnitude–distance analysis for UHS exceedances (Fig. 5)
+
+- `ratiosa_vs_tmax.m`  
+  SA/UHS ratio vs. T/Tmax (Fig. 8)
+
+- `magnitude_distance.m`  
+  Magnitude–distance threshold plots
+
+- `number_exceedances.m`  
+  Number of spectral exceedances as a function of period (Fig. 4)
+
+- `set_rsns_plot.m`  
+  Map and plot of RSNs with exceedances (Fig. 7)
+
+- `usable_gms.m`  
+  Usable ground motions vs. period (Fig. 1)
+
+Additional batch, table, or data-preparation scripts are available in `scripts/` and can be run independently.
