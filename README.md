@@ -13,6 +13,7 @@ The project identifies and analyzes ground motions in the Western U.S. that exce
 > *Submitted to Earthquake Spectra* (in review).
 
 This repository contains MATLAB code, data-processing scripts, and helper functions.
+
 ---
 
 ## Overview
