@@ -28,6 +28,7 @@ Sample outputs are written to `/results/figures/`, ready for direct inclusion in
 ---
 
 ## Repository Structure
+```
 exceeding_design_spectra/
 │
 ├── main.m # Main driver script for end-to-end analysis
@@ -35,6 +36,7 @@ exceeding_design_spectra/
 ├── src/ # Helper functions (e.g. spectral interpolation, disaggregation, utility)
 ├── data/
 │ ├── raw/ # External datasets (NGA-West2, USGS grids, not version controlled)
-│ └── derived: # Output .mat/.xlsx files from analysis scripts
+│ └── derived/ # Output .mat/.xlsx files from analysis scripts
 └── results/
 └── figures/ # Publication-quality plots (PDF, PNG)
+```
