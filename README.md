@@ -72,7 +72,7 @@ Additional batch, table, or data-preparation scripts are available in `scripts/`
 
 ## Data
 
-Large raw datasets must be downloaded manually. Specifically, gridded risk-targeted and 84th-percentile spectra must be obtained from [USGS ScienceBase](https://doi.org/10.5066/P9I0R4O6) and placed in `data/raw/`.
+Large raw datasets must be downloaded manually. Specifically, gridded risk-targeted and 84th-percentile spectra must be obtained from [USGS ScienceBase](https://doi.org/10.5066/P9I0R4O6) and placed in `data/raw/Risk Target MCE Conterminous`.
 
 ## Licensing and Citation
 
